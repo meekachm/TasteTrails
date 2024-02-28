@@ -1,14 +1,17 @@
 import React from 'react';
+import { Outlet } from 'react-router-dom';
 import './App.css';
 
 import Header from './components/Header/Header';
-import TasteTrails from './components/TasteTrails/TasteTrails';
+import Footer from './components/Footer/Footer';
+
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <TasteTrails />
+      <Outlet />
+      <Footer />
     </div>
   );
 }

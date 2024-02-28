@@ -1,38 +1,86 @@
-.App {
-  text-align: center;
+/* Define colors */
+:root {
+  --primary-color: #684D43;
+  --secondary-color-1: #AEC795;
+  --secondary-color-2: #8DA9C4;
+  --secondary-color-3: #F07167;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff; /* Set background color */
+  color: var(--primary-color); /* Set text color */
 }
 
-/* @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-} */
+/* Header styles */
+header {
+  background-color: var(--secondary-color-1); /* Set header background color */
+  padding: 20px;
+}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: var(--primary-color); /* Set header text color */
+}
+
+/* Footer styles */
+footer {
+  background-color: var(--secondary-color-1); /* Set footer background color */
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Navigation links styles */
+nav {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
 }
 
-.App-link {
-  color: #61dafb;
+nav a {
+  text-decoration: none;
+  color: var(--primary-color); /* Set navigation link color */
+  margin-right: 20px;
+  transition: color 0.3s ease;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+nav a:hover {
+  color: var(--secondary-color-3); /* Set hover color */
 }
+
+/* Button styles */
+button {
+  background-color: var(--secondary-color-3); /* Set button background color */
+  color: #fff; /* Set button text color */
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--secondary-color-2); /* Set hover background color */
+}
+
+/* Input styles */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid var(--primary-color); /* Set input border color */
+}
+
+/* Container styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Add additional styles as needed */

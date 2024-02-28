@@ -1,0 +1,461 @@
+[
+   {
+      "title": "Nagomi Cake House",
+      "desc": "Nagomi Cake House is a delightful bakery and cafe nestled in the charming city of Gardena, California. Specializing in exquisite Japanese-inspired pastries and desserts, Nagomi Cake House offers a haven for those with a sweet tooth. Each confection is crafted with meticulous attention to detail and a dedication to quality, ensuring a memorable experience with every bite. The cozy ambiance of the cafe provides the perfect backdrop for indulging in these delectable treats.",
+      "address": "15915 S Western Ave Ste D, Gardena, CA 90247",
+      "hours": "Tue - Sun 11:00 AM - 7:00 PM",
+      "geo": {
+        "lat": 33.8897,
+        "lon": -118.3099
+      },
+      "images": [
+        "nagomi.png"
+      ],
+      "website": "https://www.nagomi-cakehouse.com/eng",
+      "features": [
+        "Japanese-inspired pastries",
+        "exquisite desserts",
+        "cozy ambiance"
+      ]
+   },
+   {
+      "title": "Pâtisserie Chantilly",
+      "desc": "Pâtisserie Chantilly is a charming French bakery located in the heart of Lomita, California. Inspired by the traditional patisseries of France, Pâtisserie Chantilly offers a delectable array of pastries, cakes, and confections that are sure to satisfy any sweet craving. Each creation is crafted with precision and passion, showcasing the timeless artistry of French baking. The bakery's cozy ambiance invites guests to savor the flavors of France in a warm and welcoming setting.",
+      "address": "2383 Lomita Blvd Ste 104, Lomita, CA 90717",
+      "hours": "Tue - Sat 8:00 AM - 6:00 PM, Sun 8:00 AM - 3:00 PM",
+      "geo": {
+        "lat": 33.7929,
+        "lon": -118.3177
+      },
+      "images": [
+        "chantilly.png"
+      ],
+      "website": "https://www.patisseriechantilly.com/",
+      "features": [
+        "French bakery",
+        "pastries",
+        "cozy ambiance"
+      ]
+   },
+   {
+      "title": "5000 Pies",
+      "desc": "5000 Pies is a community-focused pizzeria nestled in the vibrant city of Long Beach, California. More than just a place to enjoy delicious pizza, 5000 Pies is a social enterprise dedicated to empowering local youth through job training and mentorship programs. With each slice of their handcrafted pizzas, guests support the mission of providing opportunities for young people in the community. The pizzeria offers a welcoming and laid-back atmosphere, making it the perfect spot to gather with friends and family over a slice of pizza with a purpose.",
+      "address": "2064 Santa Fe Ave, Long Beach, CA 90810",
+      "hours": "Tue - Thu 11:00 AM - 8:00 PM, Fri - Sat 11:00 AM - 9:00 PM, Sun 11:00 AM - 8:00 PM",
+      "geo": {
+        "lat": 33.8023,
+        "lon": -118.2169
+      },
+      "images": [
+        "5kpies.png"
+      ],
+      "website": "https://www.5000pies.com/",
+      "features": [
+        "pizza",
+        "community-focused",
+        "youth empowerment"
+      ]
+   },
+   {
+      "title": "Handel's Homemade Ice Cream",
+      "desc": "Handel's Homemade Ice Cream is a beloved ice cream parlor located in picturesque Redondo Beach, California. With a legacy dating back to 1945, Handel's has been delighting locals and visitors alike with its rich and creamy ice cream made from the finest ingredients. Each flavor is handcrafted in small batches, ensuring exceptional quality and taste in every scoop. Whether you're craving a classic favorite or eager to try one of their inventive seasonal flavors, Handel's offers a delightful treat for ice cream enthusiasts of all ages.",
+      "address": "1882 S Pacific Coast Hwy, Redondo Beach, CA 90277",
+      "hours": "Sun - Thu 11:00 AM - 9:00 PM, Fri - Sat 11:00 AM - 10:00 PM",
+      "geo": {
+        "lat": 33.8175,
+        "lon": -118.3896
+      },
+      "images": [
+        "handels.png"
+      ],
+      "website": "https://www.handelsicecream.com/",
+      "features": [
+        "homemade ice cream",
+        "classic flavors",
+        "seasonal specialties"
+      ]
+   },
+   {
+      "title": "Waffle Love",
+      "desc": "Waffle Love is a delightful destination for waffle enthusiasts located in the heart of Long Beach, California. Embracing the art of waffle-making with passion and creativity, Waffle Love offers an array of mouthwatering waffle creations that are as beautiful as they are delicious. From classic Belgian-style waffles topped with fresh fruit and whipped cream to inventive savory waffle sandwiches, there's something to satisfy every craving at Waffle Love. The warm and inviting atmosphere of the cafe provides the perfect backdrop for enjoying these delectable treats with friends and family.",
+      "address": "3768 Long Beach Blvd, Long Beach, CA 90807",
+      "hours": "Mon - Thu 8:00 AM - 8:00 PM, Fri - Sat 8:00 AM - 10:00 PM, Sun 8:00 AM - 3:00 PM",
+      "geo": {
+        "lat": 33.8281,
+        "lon": -118.1944
+      },
+      "images": [
+        "waffle_love.png"
+      ],
+      "website": "https://www.wafflelove.com/",
+      "features": [
+        "artisan waffles",
+        "sweet and savory options",
+        "cozy atmosphere"
+      ]
+   },
+   {
+      "title": "The Pie Bar",
+      "desc": "The Pie Bar is a cozy and charming pie shop located in the heart of downtown Long Beach, California. Specializing in handmade pies crafted with love and care, The Pie Bar offers a delectable selection of sweet and savory pies that are perfect for any occasion. From classic apple pie to innovative creations like bourbon pecan and chicken pot pie, there's a pie to satisfy every palate. The warm and inviting atmosphere of the shop provides the perfect setting for indulging in these comforting treats with friends and loved ones.",
+      "address": "450 Pine Ave, Long Beach, CA 90802",
+      "hours": "Mon - Thu 11:00 AM - 8:00 PM, Fri - Sat 11:00 AM - 10:00 PM, Sun 11:00 AM - 6:00 PM",
+      "geo": {
+        "lat": 33.7694,
+        "lon": -118.1927
+      },
+      "images": [
+        "pie_bar.png"
+      ],
+      "website": "https://www.thepiebarlongbeach.com/",
+      "features": [
+        "handmade pies",
+        "sweet and savory options",
+        "cozy ambiance"
+      ]
+   },
+   {
+      "title": "Cafe 86",
+      "desc": "Cafe 86 is a vibrant and eclectic cafe located in the lively city of Artesia, California. Inspired by Filipino flavors and culture, Cafe 86 offers a unique dining experience with a modern twist. From their famous Ube Leche Flan Cake to refreshing calamansi drinks, each item on the menu reflects the bold and dynamic flavors of the Philippines. The cafe's colorful and inviting atmosphere provides the perfect backdrop for guests to savor these innovative creations and immerse themselves in the vibrant energy of Filipino cuisine.",
+      "address": "11610 South St, Artesia, CA 90701",
+      "hours": "Mon - Thu 10:00 AM - 10:00 PM, Fri - Sat 10:00 AM - 11:00 PM, Sun 10:00 AM - 9:00 PM",
+      "geo": {
+        "lat": 33.8653,
+        "lon": -118.0803
+      },
+      "images": [
+        "cafe86.png"
+      ],
+      "website": "https://www.cafe-86.com/",
+      "features": [
+        "Filipino-inspired cuisine",
+        "Ube desserts",
+        "vibrant atmosphere"
+      ]
+   },
+   {
+      "title": "AWAN",
+      "desc": "Awan ice cream offers a taste of Indonesia with its creamy gelato-like texture and cloud-white hue. Made from Indonesian coconut cream, coconut water, and Balinese vanilla beans, it's a delicious nod to Southeast Asian cuisine. Visit the AWAN walk-up window in West Hollywood for scoops, pints, and quarts.",
+      "address": "866 Huntley Dr, West Hollywood, CA 90069",
+      "hours": {
+        "Monday-Friday": "3:00 PM - 10:00 PM",
+        "Saturday-Sunday": "12:00 PM - 10:00 PM"
+      },
+      "geo": {
+        "lat": 34.0854,
+        "lon": -118.3876
+      },
+      "images": [
+        "awan.png"
+      ],
+      "website": "https://www.enjoyawan.com/",
+      "features": [
+        "Scoops",
+        "Pints",
+        "Quarts"
+      ]
+   },
+   {
+      "title": "Mochidoki",
+      "desc": "Mochidoki is a delightful Japanese dessert shop located in the charming city of Santa Monica, California. Specializing in artisanal mochi ice cream, Mochidoki offers a unique and flavorful twist on this traditional Japanese treat. Each mochi is handcrafted with premium ingredients, resulting in a perfect balance of chewy mochi exterior and creamy ice cream filling. With a variety of innovative flavors to choose from, Mochidoki provides a delightful experience for dessert lovers seeking something both delicious and distinctive.",
+      "address": "1133 Montana Ave, Santa Monica, CA 90403",
+      "hours": "Mon - Thu 12:00 PM - 9:00 PM, Fri - Sat 12:00 PM - 10:00 PM, Sun 12:00 PM - 8:00 PM",
+      "geo": {
+        "lat": 34.0302,
+        "lon": -118.4986
+      },
+      "images": [
+        "mochidoki.png"
+      ],
+      "website": "https://www.mochidoki.com/",
+      "features": [
+        "artisanal mochi ice cream",
+        "innovative flavors",
+        "delightful desserts"
+      ]
+   },
+   {
+      "title": "Kanomwaan Thai Gelato and Dessert Cafe",
+      "desc": "Kanomwaan Thai Gelato and Dessert Cafe is a hidden gem nestled in the vibrant neighborhood of Hollywood in Los Angeles, California. Inspired by the rich culinary traditions of Thailand, Kanomwaan offers a tantalizing array of authentic Thai desserts and gelato flavors that are sure to delight the senses. From creamy coconut ice cream to refreshing mango sticky rice, each dessert is crafted with care using traditional Thai ingredients and techniques. The cozy and inviting ambiance of the cafe provides the perfect setting for guests to indulge in these sweet treats and experience a taste of Thailand in the heart of LA.",
+      "address": "5261 Hollywood Blvd, Los Angeles, CA 90027",
+      "hours": "Mon - Thu 12:00 PM - 9:00 PM, Fri - Sat 12:00 PM - 10:00 PM, Sun 12:00 PM - 8:00 PM",
+      "geo": {
+        "lat": 34.1019,
+        "lon": -118.3039
+      },
+      "images": [
+        "kaomwaanla.jpeg"
+      ],
+      "website": "https://www.kanomwaan.com/",
+      "features": [
+        "Thai desserts",
+        "gelato",
+        "cozy ambiance"
+      ]
+   },
+   {
+      "title": "Anko",
+      "desc": "Anko is a charming Japanese cafe located in the heart of Los Angeles, California. Drawing inspiration from the simplicity and elegance of Japanese aesthetics, Anko offers a tranquil oasis where guests can unwind and savor authentic Japanese flavors. From delicate matcha lattes to savory onigiri rice balls, each item on the menu is crafted with precision and care, using the finest ingredients sourced locally and from Japan. The serene ambiance of the cafe provides the perfect escape from the hustle and bustle of city life, inviting guests to slow down and enjoy a moment of tranquility.",
+      "address": "400 S Western Ave, Los Angeles, CA 90020",
+      "hours": "Mon - Fri 8:00 AM - 6:00 PM, Sat - Sun 9:00 AM - 5:00 PM",
+      "geo": {
+        "lat": 34.0664,
+        "lon": -118.3092
+      },
+      "images": [
+        "anko.jpeg"
+      ],
+      "website": "https://www.ankocafe.com/",
+      "features": [
+        "Japanese cafe",
+        "authentic flavors",
+        "serene ambiance"
+      ]
+   },
+   {
+      "title": "Tangtastic",
+      "desc": "Tangtastic is a vibrant bubble tea and dessert shop located in the heart of Los Angeles, California. Specializing in creative and refreshing beverages, Tangtastic offers a diverse menu of bubble teas, fruit teas, and specialty drinks that are sure to tantalize your taste buds. From classic favorites like milk tea with boba to innovative creations like fruit-infused slushies, there's something for everyone to enjoy. The lively atmosphere of the shop provides the perfect backdrop for hanging out with friends or indulging in a sweet treat on the go.",
+      "address": "698 Vermont Ave Ste 101, Los Angeles, CA 90005",
+      "hours": "Mon - Thu 11:00 AM - 10:00 PM, Fri - Sat 11:00 AM - 11:00 PM, Sun 11:00 AM - 9:00 PM",
+      "geo": {
+        "lat": 34.0623,
+        "lon": -118.2913
+      },
+      "images": [
+        "tangtastic.jpeg"
+      ],
+      "website": "",
+      "features": [
+        "bubble tea",
+        "fruit teas",
+        "lively atmosphere"
+      ]
+   },
+   {
+      "title": "Bhan Kanom Thai",
+      "desc": "Bhan Kanom Thai is a delightful Thai dessert shop located in the vibrant Hollywood neighborhood of Los Angeles, California. Specializing in authentic Thai sweets and treats, Bhan Kanom Thai offers a mouthwatering selection of traditional desserts that showcase the rich flavors and textures of Thai cuisine. From sweet sticky rice with mango to colorful and aromatic coconut-based sweets, each dessert is a delightful indulgence that transports you to the bustling streets of Thailand. The cozy and welcoming ambiance of the shop provides the perfect setting for guests to relax and enjoy these delectable treats.",
+      "address": "5271 Hollywood Blvd, Los Angeles, CA 90027",
+      "hours": "Tue - Sun 11:00 AM - 8:00 PM",
+      "geo": {
+        "lat": 34.1018,
+        "lon": -118.3015
+      },
+      "images": [
+        "banh_kanom.png"
+      ],
+      "website": "https://www.bhankanomthai.com/",
+      "features": [
+        "Thai desserts",
+        "authentic flavors",
+        "cozy ambiance"
+      ]
+   },
+   {
+      "title": "Artelice Patisserie",
+      "desc": "Artelice Patisserie is a refined French patisserie located in the bustling city of Los Angeles, California. Inspired by the artistry and elegance of French pastry-making, Artelice Patisserie offers a delectable array of meticulously crafted desserts and pastries that are as beautiful as they are delicious. From delicate macarons to decadent cakes and tarts, each creation is a masterpiece of flavor and design, sure to delight even the most discerning palate. The chic and sophisticated ambiance of the patisserie provides the perfect backdrop for indulging in these exquisite treats and experiencing a taste of Paris in LA.",
+      "address": "11301 W Olympic Blvd Ste 123, Los Angeles, CA 90064",
+      "hours": "Mon - Fri 9:00 AM - 7:00 PM, Sat - Sun 10:00 AM - 6:00 PM",
+      "geo": {
+        "lat": 34.0362,
+        "lon": -118.4408
+      },
+      "images": [
+        "artelicela.png"
+      ],
+      "website": "https://www.artelicela.com/",
+      "features": [
+        "French pastries",
+        "elegant desserts",
+        "chic ambiance"
+      ]
+   },
+   {
+      "title": "Millet Crepe",
+      "desc": "Millet Crepe is a charming creperie nestled in the vibrant neighborhood of Sawtelle Japantown in Los Angeles, California. Specializing in delicate and flavorful crepes made with high-quality millet flour, Millet Crepe offers a unique twist on this classic French treat. From sweet crepes filled with fresh fruit and Nutella to savory options bursting with cheese and vegetables, there's something for every palate to enjoy. The cozy and inviting ambiance of the creperie provides the perfect setting for guests to indulge in these delightful creations and experience the warmth of French hospitality.",
+      "address": "2011 Sawtelle Blvd, Los Angeles, CA 90025",
+      "hours": "Mon - Fri 11:00 AM - 8:00 PM, Sat - Sun 10:00 AM - 8:00 PM",
+      "geo": {
+        "lat": 34.0418,
+        "lon": -118.4488
+      },
+      "images": [
+        "millet.png"
+      ],
+      "website": "https://www.milletcrepe.com/",
+      "features": [
+        "millet crepes",
+        "sweet and savory options",
+        "cozy ambiance"
+      ]
+   },
+   {
+      "title": "Mashti Malone's Ice Cream",
+      "desc": "Mashti Malone's Ice Cream is a legendary ice cream parlor located in the heart of Los Angeles, California. Renowned for its unique and exotic flavors inspired by Persian cuisine, Mashti Malone's offers a tantalizing array of ice creams and sorbets that are sure to delight adventurous foodies. From fragrant saffron rosewater to creamy Turkish coffee, each flavor is a celebration of bold and vibrant flavors. The vibrant and eclectic ambiance of the ice cream parlor provides the perfect backdrop for guests to embark on a culinary journey through the flavors of the Middle East.",
+      "address": "1525 N La Brea Ave, Los Angeles, CA 90028",
+      "hours": "Sun - Thu 11:00 AM - 11:00 PM, Fri - Sat 11:00 AM - 12:00 AM",
+      "geo": {
+        "lat": 34.0987,
+        "lon": -118.3443
+      },
+      "images": [
+        "mashti.jpeg"
+      ],
+      "website": "https://www.mashtimalones.com/",
+      "features": [
+        "exotic flavors",
+        "Persian-inspired",
+        "eclectic ambiance"
+      ]
+   },
+   {
+      "title": "SK Donuts & Croissant",
+      "desc": "SK Donuts & Croissant is a beloved neighborhood bakery located in the bustling city of Los Angeles, California. Known for their fresh and delicious pastries made from scratch daily, SK Donuts & Croissant offers a wide selection of classic donuts, croissants, and other baked treats that are perfect for any time of day. From fluffy glazed donuts to buttery croissants filled with chocolate or almond paste, there's something to satisfy every craving. The warm and welcoming atmosphere of the bakery makes it a popular spot for locals and visitors alike to enjoy a sweet indulgence.",
+      "address": "5850 W 3rd St, Los Angeles, CA 90036",
+      "hours": "Open 24 hours",
+      "geo": {
+        "lat": 34.0691,
+        "lon": -118.3493
+      },
+      "images": [
+        "sk_donuts.png"
+      ],
+      "website": "https://sk-donuts.business.site/",
+      "features": [
+        "fresh pastries",
+        "classic donuts",
+        "welcoming atmosphere"
+      ]
+   },
+   {
+      "title": "Knead Donuts & Tea",
+      "desc": "Knead Donuts & Tea is a delightful artisanal donut shop located in the charming city of Long Beach, California. Specializing in handcrafted donuts made with high-quality ingredients, Knead Donuts & Tea offers a delicious array of flavors and varieties to suit every taste. From classic glazed donuts to inventive creations like maple bacon and matcha green tea, there's something for everyone to enjoy. The cozy and inviting atmosphere of the shop provides the perfect setting for guests to relax and savor these delectable treats with a cup of freshly brewed tea.",
+      "address": "3490 E 7th St, Long Beach, CA 90804",
+      "hours": "Tue - Sun 7:00 AM - 3:00 PM",
+      "geo": {
+        "lat": 33.7716,
+        "lon": -118.1649
+      },
+      "images": [
+        "kneads.png"
+      ],
+      "website": "",
+      "features": [
+        "artisanal donuts",
+        "handcrafted",
+        "cozy atmosphere"
+      ]
+   },
+   {
+      "title": "SOMISOMI",
+      "desc": "SOMISOMI is a popular dessert destination located in the heart of Los Angeles, California. Specializing in Korean-inspired soft serve ice cream filled taiyaki cones, SOMISOMI offers a delightful twist on traditional desserts. Guests can choose from a variety of soft serve flavors, including classic milk, matcha, and ube, which are then topped with colorful toppings such as sprinkles and mochi. The cozy and inviting atmosphere of the shop provides the perfect backdrop for guests to indulge in these sweet treats and enjoy a moment of happiness.",
+      "address": "621 S Western Ave Ste 208-A, Los Angeles, CA 90005",
+      "hours": "Mon - Thu 12:00 PM - 9:00 PM, Fri - Sat 12:00 PM - 10:00 PM, Sun 12:00 PM - 8:00 PM",
+      "geo": {
+        "lat": 34.0631,
+        "lon": -118.3093
+      },
+      "images": [
+        "somisomi.png"
+      ],
+      "website": "https://www.somisomi.com/",
+      "features": [
+        "soft serve ice cream",
+        "taiyaki cones",
+        "cozy atmosphere"
+      ]
+   },
+   {
+      "title": "Sul & Beans",
+      "desc": "Sul & Beans is a trendy dessert cafe located in the vibrant Koreatown neighborhood of Los Angeles, California. Specializing in Korean shaved ice desserts, known as bingsu, Sul & Beans offers a refreshing and indulgent treat perfect for any time of year. Guests can choose from a variety of flavors and toppings, such as fresh fruit, sweet red bean, and condensed milk, to create their own customized bingsu masterpiece. The modern and stylish ambiance of the cafe provides the perfect setting for guests to relax and enjoy a delightful dessert experience with friends and family.",
+      "address": "621 Western Ave Suite 208-A, Los Angeles, CA 90005",
+      "hours": "Mon - Thu 12:00 PM - 10:00 PM, Fri - Sat 12:00 PM - 11:00 PM, Sun 12:00 PM - 9:00 PM",
+      "geo": {
+        "lat": 34.0631,
+        "lon": -118.3093
+      },
+      "images": [
+        "sulnbeans.jpeg"
+      ],
+      "website": "https://www.sulandbeans.com/",
+      "features": [
+        "Korean shaved ice (bingsu)",
+        "customizable toppings",
+        "modern ambiance"
+      ]
+   },
+   {
+      "title": "Oakobing",
+      "desc": "Oakobing is a popular Korean dessert cafe located in Los Angeles, California, offering a delightful selection of traditional Korean shaved ice desserts known as bingsu. Made with finely shaved ice and topped with a variety of sweet and savory toppings, Oakobing's bingsu is a refreshing and indulgent treat perfect for cooling off on a hot day or satisfying a sweet craving. The cafe's modern and stylish interior provides a cozy and inviting atmosphere for guests to relax and enjoy their dessert experience.",
+      "address": "3300 W 6th St Unit 2, Los Angeles, CA 90020",
+      "hours": "Mon - Thu 12:00 PM - 10:00 PM, Fri - Sat 12:00 PM - 11:00 PM, Sun 12:00 PM - 9:00 PM",
+      "geo": {
+        "lat": 34.0639,
+        "lon": -118.2929
+      },
+      "images": [
+        "oakobing.jpeg"
+      ],
+      "website": "https://www.oakobing.com/",
+      "features": [
+        "Korean shaved ice (bingsu)",
+        "variety of toppings",
+        "modern ambiance"
+      ]
+   },
+   {
+      "title": "Saffron & Rose Persian Ice Cream",
+      "desc": "Saffron & Rose Persian Ice Cream is a beloved ice cream parlor located in the vibrant Westwood neighborhood of Los Angeles, California. Specializing in Persian-style ice cream, Saffron & Rose offers a unique and exotic array of flavors inspired by the rich culinary heritage of Iran. From fragrant rosewater to exotic saffron, each scoop of ice cream is a celebration of bold and aromatic flavors. The cozy and inviting atmosphere of the parlor provides the perfect setting for guests to savor these delightful treats and experience a taste of Persia.",
+      "address": "1387 Westwood Blvd, Los Angeles, CA 90024",
+      "hours": "Sun - Thu 11:00 AM - 11:00 PM, Fri - Sat 11:00 AM - 12:00 AM",
+      "geo": {
+        "lat": 34.0575,
+        "lon": -118.4468
+      },
+      "images": [
+        "saffron.png"
+      ],
+      "website": "https://www.saffronrosepersianicecream.com/",
+      "features": [
+        "Persian-style ice cream",
+        "unique flavors",
+        "cozy ambiance"
+      ]
+   },
+   {
+      "title": "Wanderlust Creamery",
+      "desc": "Wanderlust Creamery is a whimsical ice cream shop located in the vibrant Sawtelle neighborhood of Los Angeles, California. Inspired by travel and adventure, Wanderlust Creamery offers a delightful array of artisanal ice creams and sorbets inspired by flavors from around the world. From Earl Grey Lavender to Sticky Rice Mango, each flavor is carefully crafted using high-quality ingredients to evoke the essence of its respective destination. The playful and inviting ambiance of the shop provides the perfect setting for guests to embark on a culinary journey and satisfy their wanderlust through the magic of ice cream.",
+      "address": "2105 Sawtelle Blvd, Los Angeles, CA 90025",
+      "hours": "Mon - Thu 12:00 PM - 10:00 PM, Fri - Sat 12:00 PM - 11:00 PM, Sun 12:00 PM - 10:00 PM",
+      "geo": {
+        "lat": 34.0415,
+        "lon": -118.4483
+      },
+      "images": [
+        "wanderlust.png"
+      ],
+      "website": "https://www.wanderlustcreamery.com/",
+      "features": [
+        "artisanal ice cream",
+        "global flavors",
+        "whimsical ambiance"
+      ]
+   },
+   {
+      "title": "Kansha Creamery",
+      "desc": "Kansha Creamery is a delightful ice cream parlor located in Torrance, California, offering a unique and flavorful selection of artisanal ice creams and frozen treats. Inspired by Japanese culinary traditions and the concept of 'kansha' (gratitude), Kansha Creamery aims to express appreciation through their delicious creations. From classic flavors like matcha green tea to innovative combinations like black sesame and yuzu, each scoop of ice cream is a celebration of taste and gratitude. The warm and welcoming atmosphere of the parlor provides the perfect setting for guests to indulge in a moment of joy and appreciation.",
+      "address": "18515 S Western Ave, Torrance, CA 90248",
+      "hours": "Mon - Thu 12:00 PM - 9:00 PM, Fri - Sat 12:00 PM - 10:00 PM, Sun 12:00 PM - 8:00 PM",
+      "geo": {
+        "lat": 33.8658,
+        "lon": -118.3095
+      },
+      "images": [
+        "kansha.png"
+      ],
+      "website": "https://www.kanshacreamery.com/",
+      "features": [
+        "artisanal ice cream",
+        "Japanese-inspired flavors",
+        "warm ambiance"
+      ]
+    }
+]
