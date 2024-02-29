@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TasteTrails/static/css/main.19b0d841.css",
+    "main.js": "/TasteTrails/static/js/main.e594c6b6.js",
+    "index.html": "/TasteTrails/index.html",
+    "main.19b0d841.css.map": "/TasteTrails/static/css/main.19b0d841.css.map",
+    "main.e594c6b6.js.map": "/TasteTrails/static/js/main.e594c6b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b0d841.css",
+    "static/js/main.e594c6b6.js"
+  ]
+}
