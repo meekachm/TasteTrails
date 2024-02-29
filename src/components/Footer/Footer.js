@@ -6,7 +6,7 @@ function Footer() {
 
   return (
     <div className="Footer">
-      <small>Meeka Spivey - Copyright {currentYear}</small>
+      <small>Meeka Spivey - Copyright {currentYear} - ACS 1320 Project</small>
     </div>
   );
 };
