@@ -1,0 +1,61 @@
+.RestaurantCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  border: 2px solid #684D43;
+  border-radius: 10px; 
+  overflow: hidden;
+  margin: 0 auto;
+  background-color: #ffffff;
+  max-width: 800px;
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  font-family: 'Quicksand', sans-serif;
+  margin-bottom: 30px;
+}
+
+.RestaurantCard-info {
+  padding: 16px 32px;
+  text-align: justify; 
+}
+
+.RestaurantCard-info::after {
+  display: inline-block;
+  width: 100%;
+}
+
+.RestaurantCard-image {
+  width: 100%;
+}
+
+.RestaurantCard-image img {
+  width: 200px;
+  height: 200px;
+  display: block; 
+  margin: 0 auto; 
+}
+
+.RestaurantCard-title {
+  color: #684D43;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.RestaurantCard-desc,
+.RestaurantCard-address,
+.RestaurantCard-hours,
+.RestaurantCard-website,
+.RestaurantCard-features,
+.RestaurantCard-geo {
+  color: #8DA9C4;
+  margin-bottom: 8px;
+}
+
+.RestaurantCard-website a {
+  color: #F07167;
+  text-decoration: none;
+}
+
+.RestaurantCard-website a:hover {
+  text-decoration: underline;
+}

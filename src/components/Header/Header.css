@@ -1,33 +1,57 @@
-/* Header.css */
-
 .Header {
   box-sizing: border-box;
   width: 100%;
   display: flex;
-
-  justify-content: center;
+  justify-content: space-between; 
   align-items: center;
   padding: 1em;
   margin-bottom: 2em;
   background-color: #684D43;
+  font-family: 'Quicksand', sans-serif;
 }
 
-.Header > * {
-  color: #1f2937;
-  margin: 0;
+.logo-link {
+  flex: 1;
 }
 
-.nav-link {
+.App-logo {
+  height: 200px;
+}
+
+.nav-links {
+  flex: 1;
   display: flex;
+  gap: 20px; 
+}
+
+.nav-link,
+.RandomSweets {
   color: #AEC795;
   text-decoration: none;
-  margin-top: 1em;
+  display: flex;
+  align-items: center;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.RandomSweets:hover {
   color: #8DA9C4;
 }
 
 .nav-link-active {
   color: #F07167;
+}
+
+.RandomSweets {
+  color: #AEC795;
+  text-decoration: none;
+  display: inline; 
+  background: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+.RandomSweets:hover {
+  color: #8DA9C4;
 }

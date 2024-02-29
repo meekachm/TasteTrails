@@ -1,4 +1,3 @@
-/* Define colors */
 :root {
   --primary-color: #684D43;
   --secondary-color-1: #AEC795;
@@ -6,37 +5,33 @@
   --secondary-color-3: #F07167;
 }
 
-/* Global styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #fff; /* Set background color */
-  color: var(--primary-color); /* Set text color */
+  background-color: #fff;
+  color: var(--primary-color);
 }
 
-/* Header styles */
 header {
-  background-color: var(--secondary-color-1); /* Set header background color */
+  background-color: var(--secondary-color-1);
   padding: 20px;
 }
 
 header h1 {
   margin: 0;
   font-size: 24px;
-  color: var(--primary-color); /* Set header text color */
+  color: var(--primary-color);
 }
 
-/* Footer styles */
 footer {
-  background-color: var(--secondary-color-1); /* Set footer background color */
+  background-color: var(--secondary-color-1);
   padding: 20px;
   position: fixed;
   bottom: 0;
   width: 100%;
 }
 
-/* Navigation links styles */
 nav {
   display: flex;
   justify-content: space-between;
@@ -44,19 +39,18 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: var(--primary-color); /* Set navigation link color */
+  color: var(--primary-color);
   margin-right: 20px;
   transition: color 0.3s ease;
 }
 
 nav a:hover {
-  color: var(--secondary-color-3); /* Set hover color */
+  color: var(--secondary-color-3);
 }
 
-/* Button styles */
 button {
-  background-color: var(--secondary-color-3); /* Set button background color */
-  color: #fff; /* Set button text color */
+  background-color: var(--secondary-color-3);
+  color: #fff;
   border: none;
   padding: 10px 20px;
   cursor: pointer;
@@ -64,23 +58,5 @@ button {
 }
 
 button:hover {
-  background-color: var(--secondary-color-2); /* Set hover background color */
+  background-color: var(--secondary-color-2);
 }
-
-/* Input styles */
-input[type="text"],
-input[type="email"],
-input[type="password"] {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid var(--primary-color); /* Set input border color */
-}
-
-/* Container styles */
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-/* Add additional styles as needed */

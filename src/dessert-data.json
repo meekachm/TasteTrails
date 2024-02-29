@@ -13,9 +13,9 @@
       ],
       "website": "https://www.nagomi-cakehouse.com/eng",
       "features": [
-        "Japanese-inspired pastries",
-        "exquisite desserts",
-        "cozy ambiance"
+        "Japanese-style pastries",
+        "Intricate cake designs",
+        "Exquisite pastry flavors"
       ]
    },
    {
@@ -33,27 +33,27 @@
       "website": "https://www.patisseriechantilly.com/",
       "features": [
         "French bakery",
-        "pastries",
+        "Artisanal cake creations",
         "cozy ambiance"
       ]
    },
    {
-      "title": "5000 Pies",
-      "desc": "5000 Pies is a community-focused pizzeria nestled in the vibrant city of Long Beach, California. More than just a place to enjoy delicious pizza, 5000 Pies is a social enterprise dedicated to empowering local youth through job training and mentorship programs. With each slice of their handcrafted pizzas, guests support the mission of providing opportunities for young people in the community. The pizzeria offers a welcoming and laid-back atmosphere, making it the perfect spot to gather with friends and family over a slice of pizza with a purpose.",
-      "address": "2064 Santa Fe Ave, Long Beach, CA 90810",
-      "hours": "Tue - Thu 11:00 AM - 8:00 PM, Fri - Sat 11:00 AM - 9:00 PM, Sun 11:00 AM - 8:00 PM",
+      "title": "Sweet Maple & U Dessert Story",
+      "desc": "Sweet Maple is a laid-back and unpretentious neighborhood restaurant, coffeehouse and meeting place located in the Lower Pacific Heights neighborhood of San Francisco. Serving a classic American breakfast and brunch menu with a touch of Asian influence, our team of chefs add innovative twists to familiar favorites creating something for everyone. Founded in 2010, Sweet Maple is now the the go-to brunch destination for San Francisco locals and knowledgeable food tourists alike.",
+      "address": "1705 Ocean Ave Ste 110 Santa Monica, CA 90401",
+      "hours": "Mon - Sun 8:00 AM - 2:30 PM",
       "geo": {
-        "lat": 33.8023,
-        "lon": -118.2169
+        "lat": 34.0136,
+        "lon": -118.4928
       },
       "images": [
-        "5kpies.png"
+        "udessertstory.png"
       ],
-      "website": "https://www.5000pies.com/",
+      "website": "https://www.sweetmaplesf.com/",
       "features": [
-        "pizza",
-        "community-focused",
-        "youth empowerment"
+        "Breakfast & Brunch",
+        "Asian fusion",
+        "Desserts"
       ]
    },
    {
@@ -70,9 +70,9 @@
       ],
       "website": "https://www.handelsicecream.com/",
       "features": [
-        "homemade ice cream",
-        "classic flavors",
-        "seasonal specialties"
+        "Homemade ice cream",
+        "Classic flavors",
+        "Seasonal specialties"
       ]
    },
    {
@@ -89,9 +89,9 @@
       ],
       "website": "https://www.wafflelove.com/",
       "features": [
-        "artisan waffles",
-        "sweet and savory options",
-        "cozy atmosphere"
+        "Artisan waffles",
+        "Sweet and savory options",
+        "Comfort food"
       ]
    },
    {
@@ -108,9 +108,9 @@
       ],
       "website": "https://www.thepiebarlongbeach.com/",
       "features": [
-        "handmade pies",
-        "sweet and savory options",
-        "cozy ambiance"
+        "Handmade pies",
+        "Sweet and savory options",
+        "Cutie Pie Jar"
       ]
    },
    {
@@ -129,17 +129,14 @@
       "features": [
         "Filipino-inspired cuisine",
         "Ube desserts",
-        "vibrant atmosphere"
+        "Vibrant atmosphere"
       ]
    },
    {
       "title": "AWAN",
       "desc": "Awan ice cream offers a taste of Indonesia with its creamy gelato-like texture and cloud-white hue. Made from Indonesian coconut cream, coconut water, and Balinese vanilla beans, it's a delicious nod to Southeast Asian cuisine. Visit the AWAN walk-up window in West Hollywood for scoops, pints, and quarts.",
       "address": "866 Huntley Dr, West Hollywood, CA 90069",
-      "hours": {
-        "Monday-Friday": "3:00 PM - 10:00 PM",
-        "Saturday-Sunday": "12:00 PM - 10:00 PM"
-      },
+      "hours": "Mon - Fri 3:00 PM - 10:00 PM, Sat - Sun 12:00 PM - 10:00 PM",
       "geo": {
         "lat": 34.0854,
         "lon": -118.3876
@@ -149,9 +146,9 @@
       ],
       "website": "https://www.enjoyawan.com/",
       "features": [
-        "Scoops",
-        "Pints",
-        "Quarts"
+        "Taste of Indonesia",
+        "Ice Cream",
+        "Vegan"
       ]
    },
    {
@@ -168,9 +165,9 @@
       ],
       "website": "https://www.mochidoki.com/",
       "features": [
-        "artisanal mochi ice cream",
-        "innovative flavors",
-        "delightful desserts"
+        "Artisanal mochi ice cream",
+        "Innovative flavors",
+        "Delightful desserts"
       ]
    },
    {
@@ -204,11 +201,11 @@
       "images": [
         "anko.jpeg"
       ],
-      "website": "https://www.ankocafe.com/",
+      "website": "",
       "features": [
         "Japanese cafe",
-        "authentic flavors",
-        "serene ambiance"
+        "Authentic flavors",
+        "Shaved Ice"
       ]
    },
    {
@@ -225,9 +222,9 @@
       ],
       "website": "",
       "features": [
-        "bubble tea",
-        "fruit teas",
-        "lively atmosphere"
+        "Bubble tea",
+        "Fruit teas",
+        "Lively atmosphere"
       ]
    },
    {
@@ -245,8 +242,8 @@
       "website": "https://www.bhankanomthai.com/",
       "features": [
         "Thai desserts",
-        "authentic flavors",
-        "cozy ambiance"
+        "Authentic flavors",
+        "Ice Cream"
       ]
    },
    {
@@ -264,8 +261,8 @@
       "website": "https://www.artelicela.com/",
       "features": [
         "French pastries",
-        "elegant desserts",
-        "chic ambiance"
+        "Elegant desserts",
+        "Chic ambiance"
       ]
    },
    {
@@ -282,9 +279,9 @@
       ],
       "website": "https://www.milletcrepe.com/",
       "features": [
-        "millet crepes",
-        "sweet and savory options",
-        "cozy ambiance"
+        "Millet crepes",
+        "Sweet and savory options",
+        "French bakery"
       ]
    },
    {
@@ -301,9 +298,9 @@
       ],
       "website": "https://www.mashtimalones.com/",
       "features": [
-        "exotic flavors",
+        "Exotic flavors",
         "Persian-inspired",
-        "eclectic ambiance"
+        "Eclectic ambiance"
       ]
    },
    {
@@ -320,9 +317,9 @@
       ],
       "website": "https://sk-donuts.business.site/",
       "features": [
-        "fresh pastries",
-        "classic donuts",
-        "welcoming atmosphere"
+        "Fresh pastries",
+        "Classic donuts",
+        "Welcoming atmosphere"
       ]
    },
    {
@@ -358,9 +355,9 @@
       ],
       "website": "https://www.somisomi.com/",
       "features": [
-        "soft serve ice cream",
-        "taiyaki cones",
-        "cozy atmosphere"
+        "Soft serve ice cream",
+        "Taiyaki",
+        "Exotic flavors"
       ]
    },
    {
@@ -378,8 +375,8 @@
       "website": "https://www.sulandbeans.com/",
       "features": [
         "Korean shaved ice (bingsu)",
-        "customizable toppings",
-        "modern ambiance"
+        "Customizable toppings",
+        "Modern ambiance"
       ]
    },
    {
@@ -397,8 +394,8 @@
       "website": "https://www.oakobing.com/",
       "features": [
         "Korean shaved ice (bingsu)",
-        "variety of toppings",
-        "modern ambiance"
+        "Variety of toppings",
+        "Modern ambiance"
       ]
    },
    {
@@ -434,9 +431,9 @@
       ],
       "website": "https://www.wanderlustcreamery.com/",
       "features": [
-        "artisanal ice cream",
-        "global flavors",
-        "whimsical ambiance"
+        "Artisanal ice cream",
+        "Global flavors",
+        "Whimsical ambiance"
       ]
    },
    {
@@ -453,9 +450,9 @@
       ],
       "website": "https://www.kanshacreamery.com/",
       "features": [
-        "artisanal ice cream",
+        "Artisanal ice cream",
         "Japanese-inspired flavors",
-        "warm ambiance"
+        "Warm ambiance"
       ]
     }
 ]

@@ -2,23 +2,19 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/logo.svg" />
+    <link rel="icon" href="%PUBLIC_URL%/logo.svg" />    
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
-      name="description"
-      content="Your go-to app for tracking, rating, and discovering restaurants, with a fun twist for indecisive dining days."
+      name="TasteTrails"
+      content="Indulge your sweet tooth with TasteTrails - the go-to app for tracking, rating, and discovering the most tempting desserts and ice cream. Perfect for your sweetest cravings and indecisive dessert days."
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>TasteTrails</title>
-    <!-- Add the Google Maps JavaScript API script tag with your API key -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANrMPZGTEP0iPVUyPVXjHFRVCYutOzlDc&libraries=places"></script>
+    <!-- Add the loading="async" attribute to the script tag -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=${process.env.REACT_APP_GOOGLE_MAPS_API_KEY}&libraries=places" loading="async"></script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
   </body>
 </html>
-
-

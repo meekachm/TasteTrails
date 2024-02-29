@@ -1,0 +1,91 @@
+.SweetSpots {
+  display: grid;
+  grid-template-columns: repeat(1, 5fr);
+  grid-template-rows: auto auto auto; 
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  gap: 20px; 
+  color: #684d43; 
+  font-family: 'Quicksand', sans-serif; 
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.SweetSpots h2 {
+  text-align: center;
+  color: #684D43;
+}
+
+.SweetSpots form {
+  grid-area: 1 / 1 / 2 / 6;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.SweetSpots input {
+  width: 30%;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #684D43;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+.SweetSpots button {
+  padding: 10px 16px;
+  font-size: 16px;
+  background-color: #AEC795;
+  color: #684D43;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.SweetSpots button:hover {
+  background-color: #8DA9C4;
+}
+
+.SweetSpots .grid {
+  font-size: 14px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.SweetSpots .grid-item {
+  border: 2px solid #684D43;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.SweetSpots .grid-item img {
+  width: 100%;
+  height: auto;
+}
+
+.SweetSpots .grid-item p {
+  padding: 8px;
+  color: #8DA9C4;
+  text-align: center;
+  margin-bottom: auto;
+}
+
+.SweetSpots .grid-item a {
+  display: block;
+  padding: 8px;
+  background-color: #AEC795;
+  color: #684D43;
+  text-align: center;
+  text-decoration: none;
+  border-top: 2px solid #684D43;
+  margin-top: auto;
+}
+
+.SweetSpots .grid-item a:hover {
+  background-color: #8DA9C4;
+}

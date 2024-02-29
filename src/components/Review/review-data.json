@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "restaurantId": 7,
+    "username": "Jasmin Lee",
+    "stars": 4,
+    "comment": "G-R-E-A-T!!!"
+  },
+  {
+    "id": 2,
+    "restaurantId": 12,
+    "username": "Neo S.",
+    "stars": 5,
+    "comment": "Amazing desserts!"
+  }
+]
